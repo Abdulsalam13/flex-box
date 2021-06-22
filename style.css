@@ -1,0 +1,36 @@
+body{
+    height: 330vh;
+    
+}
+
+.container{
+    width: 1200px;
+    margin: auto;
+    background:whitesmoke;
+    border-bottom-color: unset solid;
+    overflow: auto;
+    display: flex ;
+    flex-wrap: wrap;
+    flex-direction: row;
+    font-size: 100px;
+
+}
+.gallery img{
+    width: 250px;
+    height: 250px;
+    margin: 40px;
+    margin-left: 70px;
+border-style:groove ;
+    border-bottom: px solid whitesmoke ;
+    border-top: 4px solid whitesmoke;
+   
+}
+ div p{
+     font-size: 10px;
+     text-align: center;
+     margin: 0;
+     padding:0;
+     font-weight: 100;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+     ;
+ }
